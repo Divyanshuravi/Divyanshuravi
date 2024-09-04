@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **REST API's**
 
-- 🌱 I’m currently learning **Flask, JUnit, React JS**
+- 🌱 I’m currently learning **Flask, NextJs, Node.JS**
 
-- 💬 Ask me about ** Python, Data Structure and Algorithm, Flask, REST API's**
+- 💬 Ask me about ** Python, Node.js, Data Structure and Algorithm, Flask, REST API's**
 
 - 📫 How to reach me **divyanshuraviad@gmail.com**
 
